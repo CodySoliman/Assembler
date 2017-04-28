@@ -1,0 +1,12 @@
+LOOP  ->  6
+INDEX  ->  28
+ALPHA  ->  2B
+ZERO  ->  157
+K300  ->  15D
+ENDIF  ->  160
+THREE  ->  166
+NUMB  ->  169
+XO  ->  173
+ENDIF  ->  175
+TWENTY  ->  181
+End  ->  184
